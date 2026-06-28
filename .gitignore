@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Machine learning models (too large for GitHub)
+*.pkl
+text_preprocessor.pkl
+col_preprocessor.pkl
+phishing_voting_model.pkl
