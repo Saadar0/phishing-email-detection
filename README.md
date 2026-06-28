@@ -48,8 +48,8 @@ The project is designed with a modular and professional architecture, split acro
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/PhishGuard-AI.git](https://github.com/YOUR_USERNAME/PhishGuard-AI.git)
-cd PhishGuard-AI
+git clone https://github.com/Saadar0/phishing-email-detection.git
+cd phishing-email-detection
 
 ```
 
