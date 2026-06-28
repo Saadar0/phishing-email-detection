@@ -1,4 +1,3 @@
-```markdown
 # 🎯 PhishGuard AI
 
 **PhishGuard AI** is a cybersecurity web application that leverages Machine Learning to detect phishing emails in real time. 
@@ -83,6 +82,3 @@ streamlit run app.py
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
-```
-
-```
